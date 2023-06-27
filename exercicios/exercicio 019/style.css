@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+/*
+em HTML é id = em CSS é # 
+em HTML é class + em CSS é .
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@1,300&family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+body {
+    background-color: rgba(83, 212, 69, 0.82);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #0e5828;
+    text-align: center;
+    background-color: #19552f;
+    color: white;
+}
+
+h1#principal {
+    text-align: center;
+    background-color: #0e5828;
+}
+
+h2 {
+    color: #122b1b;
+    text-align: center;
+}
+
+p { 
+    text-align: justify;
+    text-indent: 20px;
+    color: #130340e1;
+}
+
+.basico {
+    background-color: rgb(26, 26, 142);
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    color: rgb(202, 211, 20);
+}
+
+.intermediario {
+    background-color: rgb(26, 89, 198);
+    color: rgb(95, 237, 7);
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.avancado {
+    background-color: rgb(36, 6, 81);
+    color: rgb(228, 181, 9);
+    font-family: 'Monoton', cursive;
+}

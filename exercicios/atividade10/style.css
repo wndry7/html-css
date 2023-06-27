@@ -1,0 +1,122 @@
+@charset "UTF-8";
+@font-face {
+    font-family: idroid;
+    src: url(pacote-projeto-d010/fontes/idroid.otf)format(opentype);
+}
+
+#pe1 {
+    text-align: center;
+    border: 1px;
+    margin-top: 0px;
+    padding-bottom: 50px;
+    color: rgb(255, 255, 255);
+}
+.pe2 > a:hover { 
+    background-color: #2fa8656f;
+    padding: 8px;
+    border-radius: 10px;
+}
+nav {
+    text-align: left;   
+    height: 1px;
+    border-left: 1px
+}
+nav > a {
+    text-decoration: none;
+    color: white;
+    padding-right: 5px;
+    border-left: 100px;
+    
+}
+header {
+    background-image: linear-gradient(to top,rgba(0, 0, 0, 0.657),#439a58);
+    padding: 30px;
+    padding-left: 10px;
+}
+body {
+    margin: 0px;
+    background-color: #84E1AD;
+}
+main {
+        text-align: left;
+        background-color: white;
+        margin-top: 0px;
+        margin: 100px;
+        margin-top: 0px;
+        border-radius: 0px 0px 10px 10px;
+    }
+#irina {
+    padding: 5px;
+}
+.one {
+    background-color: #2FA866;
+    color: rgba(255, 255, 255, 0.885);
+    border-radius: 7px 7px 1px 1px;
+    padding: 8px;
+    margin: 8px;
+    margin-bottom: 0px;
+}
+div {
+    padding: 8px;
+}
+.te {
+    background-color: #84e1ac7c;
+    margin: 0px;
+    margin: 8px;
+    margin-bottom: 0px;
+}
+#s1 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#radio {
+    border-radius: 0px 0px 8px 8px;
+    margin-top: 0px;
+}
+footer {
+    background-color: #0b481acf;
+    text-align: center;
+    margin-bottom: 0px;
+}
+footer > p {
+    margin-bottom: 0px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    color: white;
+}
+#ident {
+    text-indent: 30px;
+}
+a {
+    text-decoration: none;
+    color: #0b481acf;
+}
+.ident1 {
+    text-indent: 30px;
+    padding-left: 10px;
+}
+.font {
+    font-family: idroid;
+    text-indent: 40px;
+    background-image: linear-gradient(to right,#0b481aa3 10%,white 50%);
+    color: #073712;
+}
+#fonth1 {
+    font-family: idroid;
+    text-indent: 40px;
+    color: #073712;
+    padding-top: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+iframe {
+    padding-left: 40px;
+    
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
